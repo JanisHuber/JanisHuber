@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JanisHuber&label=Profile views&color=0e75b6&style=flat" alt="JanisHuber" /> </p>
 
-- 🔭 I'm currently working on **FinPath – a personal finance platform with secure auth, payments, and cloud-native and scalable architecture**
+- 🔭 I'm currently working on **FinPath – a personal finance platform with secure auth, payments and scalable architecture**
 
 - 🌱 I'm currently learning **Advanced backend architecture, security, and scalable system design**
 
