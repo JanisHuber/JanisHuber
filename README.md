@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JanisHuber&label=Profile views&color=0e75b6&style=flat" alt="JanisHuber" /> </p>
 
-- 🔭 I'm currently working on **FinPath – a personal finance platform with secure auth, payments and scalable architecture**
+- 🔭 I'm currently working on **a private startup project focused on scalable SaaS architecture (details not yet public)**
 
-- 🌱 I'm currently learning **Advanced backend architecture, security, and scalable system design**
+- 🌱 I'm currently learning **advanced backend architecture, security, and scalable system design**
 
-- 👯 I'm looking to collaborate on **Fintech, backend-heavy SaaS products, and open source tooling**
+- 👯 I'm looking to collaborate on **backend-heavy SaaS platforms, developer tooling, and open source projects**
 
-- 🤝 I'm looking for help with **Scaling systems, production security, and distributed architectures**
+- 🤝 I'm interested in **system scaling, production security, and distributed architectures**
 
-- 💬 Ask me about **Spring Boot / Open LIberty, REST APIs, JWT authentication, CI/CD, Docker, and cloud deployments**
+- 💬 Ask me about **backend architecture (Spring Boot), REST APIs, JWT authentication, CI/CD, Docker, cloud deployments, and modern frontend tooling like Angular and Flutter**
 
 - 📫 How to reach me **janis.huber@itme.ch**
 
